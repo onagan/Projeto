@@ -1,0 +1,14 @@
+Programas utilizados:
+1- XAMPP
+2- MARIADB
+3- VScode
+
+Instruções para abrir o site:
+
+1- O arquivo "Banco Exportado.sql" deve ser importado para o MariaDB.
+2- A pasta Site-Ceos deve ser colocada dentro da pasta "C:\xampp\htdocs"
+3- Abra o VScode e abra o arquivo Config.php e mude as informações de servidor para o tipo de servidor que você está usando.
+4- Abra o navegador do computador e abra o link "http://localhost/"
+5- Pelo navegador entre na pasta "Site-ceos" e abra o arquivo "Main.php"
+
+
